@@ -1,10 +1,19 @@
-### Hi there 👋
+<h1>  Hi, I am Raymond !  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7D9wW-solUATwqtrJRchbfDM_hjNnri-A3Q&usqp=CAU" alt="👋 height="30" width="50"></h1>
+ 
+![visitors](https://vbr.wocr.tk/badge?page_id=Raymondccy.Raymondccy&color=00cf00)
+[![GitHub Raymond](https://img.shields.io/github/followers/Raymondccy?label=follow&style=social)](https://github.com/Raymondccy)
 
-<!--
+### A little more about me... <img src="https://media.tenor.com/2EIm-E0LrQYAAAAC/shiba-inu.gif" height="50" width="50">  
+- 🎓 I’m currently a postgraduate student studying Financial Technology. 
+- 🕮 I have experience with Diffusion Models, Web & Mobile App Design in my undergraduate studies.
+<!-- - 🌐 -->
+### 📫 How to reach me:
+You can reach me via cychengas@connect.ust.hk. Welcome to follow my socials! XD  
+
+#### ⚡ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+<!-- 
 **Raymondccy/Raymondccy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
