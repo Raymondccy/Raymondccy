@@ -1,6 +1,6 @@
 <h1>  Hi, I am Raymond !  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7D9wW-solUATwqtrJRchbfDM_hjNnri-A3Q&usqp=CAU" alt="👋 height="30" width="50"></h1>
  
-![visitors](https://vbr.wocr.tk/badge?page_id=Raymondccy.Raymondccy&color=00cf00)
+![visitors](https://badges.pufler.dev/visits/Raymondccy/Raymondccy)
 [![GitHub Raymond](https://img.shields.io/github/followers/Raymondccy?label=follow&style=social)](https://github.com/Raymondccy)
 
 ### A little more about me... <img src="https://media.tenor.com/2EIm-E0LrQYAAAAC/shiba-inu.gif" height="50" width="50">  
