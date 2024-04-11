@@ -6,6 +6,8 @@
 ### A little more about me... <img src="https://media.tenor.com/2EIm-E0LrQYAAAAC/shiba-inu.gif" height="50" width="50">  
 - 🎓 I’m currently a postgraduate student studying Financial Technology. 
 - 🕮 I have experience with Diffusion Models, Web & Mobile App Design in my undergraduate studies.
+- ⚡ The anime I love most:
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.soogif.com%2FmaterialPage%2FgEsDYv9cVfI&psig=AOvVaw0jgWqQlwiWMqyo5vsnENC-&ust=1712916985531000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLic7JX3uYUDFQAAAAAdAAAAABAn">
 <!-- - 🌐 -->
 ### 📫 How to reach me:
 You can reach me via [Email](cychengas@connect.ust.hk). Welcome to follow my socials! XD  
