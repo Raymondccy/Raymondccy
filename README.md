@@ -1,4 +1,4 @@
-<h1>  Hi, I am Raymond !  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7D9wW-solUATwqtrJRchbfDM_hjNnri-A3Q&usqp=CAU" alt="👋 height="30" width="50"></h1>
+<h1>  Hi, I am Raymond !  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.soogif.com%2FmaterialPage%2FgEsDYv9cVfI&psig=AOvVaw0jgWqQlwiWMqyo5vsnENC-&ust=1712916985531000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLic7JX3uYUDFQAAAAAdAAAAABAn" alt="👋 height="30" width="50"></h1>
  
 ![visitors](https://badges.pufler.dev/visits/Raymondccy/Raymondccy)
 [![GitHub Raymond](https://img.shields.io/github/followers/Raymondccy?label=follow&style=social)](https://github.com/Raymondccy)
@@ -8,7 +8,7 @@
 - 🕮 I have experience with Diffusion Models, Web & Mobile App Design in my undergraduate studies.
 <!-- - 🌐 -->
 ### 📫 How to reach me:
-You can reach me via cychengas@connect.ust.hk. Welcome to follow my socials! XD  
+You can reach me via [Email](cychengas@connect.ust.hk). Welcome to follow my socials! XD  
 
 #### ⚡ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
