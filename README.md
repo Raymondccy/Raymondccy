@@ -4,12 +4,12 @@
 [![GitHub Raymond](https://img.shields.io/github/followers/Raymondccy?label=follow&style=social)](https://github.com/Raymondccy)
 
 ### A little more about me... <img src="https://media.tenor.com/2EIm-E0LrQYAAAAC/shiba-inu.gif" height="50" width="50">  
-- 🎓 I’m currently a postgraduate student studying Financial Technology. 
 - 🕮 To be updated...
 <!-- - 🌐 -->
 
 <!-- 
 **Raymondccy/Raymondccy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m currently a postgraduate student studying Financial Technology. 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
